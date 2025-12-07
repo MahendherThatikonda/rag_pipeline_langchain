@@ -1,0 +1,8 @@
+Machine Learning Introduction
+
+Machine learning is a subfield of AI where computers learn to identify patterns and make predictions from data, rather than being explicitly programmed for every task. It involves feeding algorithms large amounts of data so they can build models and learn to perform tasks like image recognition, language translation, and fraud detection. The core idea is to enable systems to improve their performance and accuracy over time as they are exposed to more data. 
+How it works
+Data-driven learning: Instead of following pre-written rules, a machine learning model learns the rules itself by analyzing patterns in the data it is given.
+Training: Algorithms are "trained" on a dataset to learn the underlying patterns. This is like showing a student many examples so they can learn to solve new problems.
+Prediction: After training, the model can use the patterns it learned to make accurate predictions or decisions on new, unseen data.
+Continuous improvement: If the output is incorrect, the model can be fed this feedback to improve its accuracy over time.  
